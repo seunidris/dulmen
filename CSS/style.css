@@ -20,3 +20,123 @@ body .bbs {
 body .bbs div img {
   height: 90vh;
 }
+
+body section span {
+  font-size: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body .eye img {
+  width: 328px;
+  height: 952px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 50% 50%;
+     object-position: 50% 50%;
+}
+
+body .eye .text-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+body .sce6 {
+  font-family: 'Cinzel', serif;
+}
+
+body .sce6 .lastw {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 10px;
+  margin-left: 15%;
+}
+
+body .sce6 .lastw .no {
+  font-size: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body .sce6 .lastw .con {
+  font-size: 48px;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 16.8px;
+}
+
+body .sce6 .las {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 25%;
+}
+
+body .sce6 .las .to {
+  width: 30%;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+}
+
+body .sce6 .las .to2 {
+  width: 50%;
+  font-size: 21px;
+  letter-spacing: 2.1px;
+}
+
+body .sce6 .aboutw .about {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 10px;
+  width: 50%;
+  margin-left: 15%;
+}
+
+body .sce6 .aboutw .about div {
+  font-size: 22px;
+}
+
+body .sce6 .aboutw .about span {
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body .sce6 .for .nec {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 10px;
+}
+
+body .sce6 .for .nec .name {
+  border-bottom: 1px solid;
+  width: 25%;
+}
+
+body .sce6 .for .nec .email {
+  border-bottom: 1px solid;
+  width: 25%;
+}
+
+body .sce6 .for .bet {
+  border-bottom: 1px solid;
+  width: 51%;
+  margin-top: 20px;
+}
+
+body .sce6 .for .nac {
+  margin-top: 25px;
+}
+
+body .sce6 .for .sed {
+  margin-top: 8%;
+  border-top: solid 1px;
+  width: 51%;
+}

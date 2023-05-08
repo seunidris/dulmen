@@ -1,0 +1,183 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container1 .row1 .firstcol {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 84px;
+  margin-left: 10%;
+}
+
+.container2 .row2 .secol .ca {
+  font-size: 60px;
+  letter-spacing: 24.5px;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: 15%;
+}
+
+.container2 .row2 .secol .ad {
+  margin-left: 19%;
+  font-size: 60px;
+  letter-spacing: 24.5px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.container3 .row3 .thrcol {
+  font-size: 35px;
+  letter-spacing: 12.5px;
+  margin-left: 15%;
+  font-family: sans-serif;
+  margin-top: 20px;
+}
+
+.container4 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.container4 .row4 {
+  margin-left: 15%;
+  margin-top: 35px;
+}
+
+.container5 .row5 {
+  margin-top: 150px;
+}
+
+.container5 .row5 .container .edit {
+  font-size: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-weight: bold;
+}
+
+.container5 .row5 div img {
+  height: 700px;
+  width: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.txt {
+  font-size: 28px;
+  letter-spacing: 9.8px;
+  width: 70%;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.container6 .row6 {
+  margin-top: 150px;
+}
+
+.container6 .row6 div img {
+  height: 700px;
+  width: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.container7 .row7 {
+  margin-top: 150px;
+}
+
+.container7 .row7 .col {
+  font-size: 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.container8 .row8 {
+  margin-top: 150px;
+}
+
+.container8 .row8 div img {
+  width: 900px;
+  height: 900px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.container8 .row8 .container .edit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-size: 70px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.container8 .row8 .container .spa {
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: bold;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.container8 .row8 .container .txt2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-family: 14px;
+  font-family: sans-serif;
+}
+
+.container8 .row8 .container9 .row9 div img {
+  -o-object-fit: cov;
+     object-fit: cov;
+}
+
+.container8 .container10 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+
+.container11 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 80px;
+  letter-spacing: 5.2px;
+}
+
+.container11 .black-link {
+  color: black;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .row2wrapper .row2 {
+    text-align: center;
+  }
+  .row2wrapper .row2b {
+    text-align: center;
+  }
+}

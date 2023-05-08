@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.head {
+  background-image: url(./images/cover1.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-color: red;
+  height: 50vh;
+}

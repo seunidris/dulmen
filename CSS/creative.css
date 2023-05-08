@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container .date {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 84px;
+}
+
+.container .creative {
+  background-color: aqua;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 70px;
+  width: 80%;
+  margin: 0 auto;
+  font-weight: bolder;
+}
+
+.container .creative span {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.container .creative div {
+  margin-left: 5%;
+}
+
+.container .creative .left {
+  margin-left: 10%;
+}

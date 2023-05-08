@@ -1,0 +1,141 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.otwrapper{
+  display: flex;
+  
+  flex-direction: column;
+  margin-left: 10%;
+
+  .ot{ 
+    
+    
+
+    span{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 100px;
+      margin-left: 12%;
+    }
+    .dv{
+      width: 70%;
+      margin: 0 auto;
+      font-weight: bolder;
+      font-size: 53px;
+      letter-spacing: 18.55px;
+      font-family: sans-serif;
+
+      .vd{
+        margin-left: auto;
+        width: 89%;
+      }
+    }
+  }
+
+  .write{font-family: sans-serif;
+    letter-spacing: 5.6px;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 13%;
+    span{
+      width: 100%;
+      margin: 20px;
+    }
+  }
+}
+.container-fluid{
+  .row{
+    div{
+      
+      
+
+      img{ height: 400px;
+        width: 980px;
+        object-fit: cover;
+        object-position: cover;
+        
+        
+      
+        
+        
+      }
+
+    }
+  }
+
+  
+}
+
+.txt{
+  box-sizing: border-box;
+  margin-top: 150px;
+  margin-bottom: 30px;
+  
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20%;
+  
+
+  .text{
+    
+    
+    text-align: center;
+    padding-right: 30%;
+    text-align: center;
+    width: 76%;
+    
+    
+    
+    
+  }
+
+  
+}
+
+.lastimg{
+  .row{
+     div{
+      img{
+        height: 70%;
+        width: 80%;
+        object-fit: cover;
+      }
+     }
+  }
+}
+
+.txt2{
+  margin-top: 100px;
+
+  .text{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Cinzel', serif;
+    text-decoration: none;
+    
+
+    .p1{ font-size: 16px;
+      letter-spacing: 5.6px;
+
+    }
+  }
+}
+
+// @media (min-width: 992px) {
+  
+//   #last12{
+//     display: flex;
+//     flex-wrap: wrap;
+//   }
+// }
+
+
+   
+    

@@ -1,0 +1,121 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.otwrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-left: 10%;
+}
+
+.otwrapper .ot span {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+  margin-left: 12%;
+}
+
+.otwrapper .ot .dv {
+  width: 70%;
+  margin: 0 auto;
+  font-weight: bolder;
+  font-size: 53px;
+  letter-spacing: 18.55px;
+  font-family: sans-serif;
+}
+
+.otwrapper .ot .dv .vd {
+  margin-left: auto;
+  width: 89%;
+}
+
+.otwrapper .write {
+  font-family: sans-serif;
+  letter-spacing: 5.6px;
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-left: 13%;
+}
+
+.otwrapper .write span {
+  width: 100%;
+  margin: 20px;
+}
+
+.container-fluid .row div img {
+  height: 400px;
+  width: 980px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: cover;
+     object-position: cover;
+}
+
+.txt {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 150px;
+  margin-bottom: 30px;
+  font-family: sans-serif;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 20%;
+}
+
+.txt .text {
+  text-align: center;
+  padding-right: 30%;
+  text-align: center;
+  width: 76%;
+}
+
+.lastimg .row div img {
+  height: 70%;
+  width: 80%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.txt2 {
+  margin-top: 100px;
+}
+
+.txt2 .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-family: 'Cinzel', serif;
+  text-decoration: none;
+}
+
+.txt2 .text .p1 {
+  font-size: 16px;
+  letter-spacing: 5.6px;
+}

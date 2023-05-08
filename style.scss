@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
 
+
     .bbs{
     //    background-color: aqua;
        display: flex;
@@ -16,4 +17,134 @@ body{
         }
        }
     }
+
+    section{
+        
+        span{
+            font-size: 100px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+     
+        
+    }
+    .eye{
+        img{
+            width: 328px;
+            height: 952px;
+            object-fit: cover;
+            object-position: 50% 50%;
+
+        }
+       
+        .text-container{
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            
+        }
+    }
+
+.sce6{font-family: 'Cinzel', serif;
+
+    .lastw{ display: flex;
+           align-items: center;
+           gap: 10px;
+           margin-left: 15%;
+
+        .no{
+            font-size: 100px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+    
+        .con{
+            font-size: 48px;
+            font-family: 'Cinzel', serif;
+            letter-spacing: 16.8px;
+        }
+
+    }
+
+    .las{ display: flex;
+        margin-left: 25%;
+        .to{
+            width: 30%;
+            font-size: 16px;
+            letter-spacing: 0.8px;
+        }
+
+        .to2{
+            width: 50%;
+            font-size: 21px;
+            letter-spacing: 2.1px;
+        }
+    }
+    
+     .aboutw{
+        .about{ display: flex;
+                flex-direction: column;
+                gap: 10px;
+                width: 50%;
+                margin-left: 15%;
+                div{
+                    font-size: 22px;
+                    
+                }
+            span{
+                font-size: 12px;
+                font-family: 'Courier New', Courier, monospace;
+            }
+        }
+     }
+
+     .for{
+        .nec{ display: flex;
+            gap: 10px;
+            
+            .name{
+                border-bottom: 1px solid;
+                width: 25%;
+            }
+
+            .email{
+                border-bottom: 1px solid;
+                width: 25%;
+            }
+            
+        
+        }
+        .bet{
+            border-bottom: 1px solid;
+            width: 51%;
+            margin-top: 20px;
+        }
+        .nac{
+            margin-top: 25px;
+        }
+
+        .sed{
+            margin-top: 8%;
+            border-top: solid 1px;
+            width: 51%;
+        }
+     }
+
+
+}   
 }
+
+
+
+<div class="reff" style="display: flex;">
+<span style="font-size: 22px;  font-family: 'Cinzel', serif;"><i>REVERENCE</i></span>
+<div class="d-flex gap-5 ref" style="font-size: 10px;">
+<p style="width: 15%;"> A COMPANY FILMPRODUCTION CARTE BLANCHE INTERNATIONAL FILMPRODUCTION ARD, RTL 2, NTV DIAZO PHOTO- AND FILMPRODUCTION MOTION WORKS ANIMATION FILM STUDIOS INDEPENDENT CONCEPTS MASERATI CHECK IN IMMOBILIEN MAURICE LACROIX DINNEBIER PREMIUM CARS POGGENPOHL BETTI BERLIN SUPERLATECHECKIN</p>
+<p style="width: 10%;"> MAKSIMENKO LONDON BEAUTIFUL COLLECTIVE PHOTOGRAPHIE YOUR TIMES IMMOBILIEN BODHI COLLECTIVE CANADA NOVEMBER BOUTIQUE ANNA S HAIRLOUNGE ZAZUU WARDROBE SENATOR AG THE LOVERS e.V.EASTERN EUROPEAN ACQUISITION POOL SAATCHI ART GQ GENTLEMANS LOUNGE</p>
+
+</div>
+<div class="d-flex gap-5">
+    <span style="font-size: 16px;">PLEASE FOLLOW ME</span>
+    <span style="font-size: 16px;"><u>FACEBOOK</u></span>
+    <span style="font-size: 16px;"><u>INSTAGRAM</u></span>
+</div>
+
+</div>
