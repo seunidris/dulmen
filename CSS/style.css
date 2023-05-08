@@ -2,3 +2,21 @@ body {
   padding: 0;
   margin: 0;
 }
+
+body .bbs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+body .bbs div img {
+  height: 90vh;
+}
